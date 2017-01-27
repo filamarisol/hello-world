@@ -1,7 +1,11 @@
 h1 {
+  color: #00ffff;
+}
+
+p.red {
   color: red;
 }
 
-p {
-  color: #00FFFF;
+p.blue {
+  color: blue;
 }
